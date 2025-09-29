@@ -27,4 +27,5 @@ python delete_bucket.py
 - Do not commit AWS credentials or sensitive files.
 
 ## Author
-Atharv Nevase
+Gayatri Thakur
+
